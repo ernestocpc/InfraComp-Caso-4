@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685406452002,17461,Petición HTTP,200,OK,Grupo de Hilos 1-1,text,true,,507,129,1,1,http://172.23.65.63:3000/proceso_a,17458,0,20
