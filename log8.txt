@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1685582204264,39300,Petición HTTP,200,OK,Grupo de Hilos 1-1,text,true,,507,129,3,3,http://172.23.65.63:3000/proceso_a,39296,0,20
+1685582204490,39973,Petición HTTP,200,OK,Grupo de Hilos 1-2,text,true,,507,129,2,2,http://172.23.65.63:3000/proceso_a,39973,0,1
+1685582204815,39838,Petición HTTP,200,OK,Grupo de Hilos 1-3,text,true,,507,129,1,1,http://172.23.65.63:3000/proceso_a,39838,0,1
